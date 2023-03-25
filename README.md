@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# LeetCode stats
 [![Rusgalll LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Rusgalll&theme=dark)](https://github.com/Rusgalll/leetcode-stats)
