@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Rusgalll LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Rusgalll&theme=dark)](https://github.com/Rusgalll/leetcode-stats)
